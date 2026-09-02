@@ -15,3 +15,11 @@ rezervă pentru layout de formular (aici nu e cazul).
 
 **Risc rezidual:** testul nu acoperă conținutul celor ~190 de pagini la nivel de articol; extinde cu
 întrebări pe articole/definiții specifice pe măsură ce apar cazuri de uz.
+
+## Adăugat la deep pass (hartă structurală, verificat din STRUCTURA.md)
+6. **Câte diviziuni are Codul?** → 2 cărți, 15 părți, 37 titluri, 95 capitole (`STRUCTURA.md`). **PASS**
+7. **Unde se tratează „Planificarea teritoriului județean"?** → CARTEA I / PARTEA I / TITLUL I /
+   CAPITOLUL IV, p.8. **PASS**
+8. **Unde încep dispozițiile privind avizarea/finanțarea?** → CARTEA I / PARTEA I / TITLUL II, p.26. **PASS**
+9. **Documentul are pagini cu text needescifrabil (font stricat)?** → NU; extragere curată pe toate
+   192 de pagini (verificat). **PASS**

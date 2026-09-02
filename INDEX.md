@@ -27,3 +27,6 @@ Cele 8 anexe ale Codului: în textul ancorat (marcaj „ANEXA"); de indexat la n
 
 ## Registru tabele/figuri
 Nu există tabele sau figuri numerotate în acest act (`Tabelul N`/`Figura N` = 0).
+
+## Structură completă
+Vezi **`STRUCTURA.md`** — hartă navigabilă CARTEA→PARTEA→TITLUL→CAPITOLUL (2 cărți · 15 părți · 37 titluri · 95 capitole), cu titluri și pagini.
